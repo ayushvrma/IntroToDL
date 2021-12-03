@@ -1,3 +1,9 @@
+# Softmax converts scores obtained by linear regression to probabilities between 0 and 1
+# Used for multi-class classification i.e more than 2 classes
+# eg: duck, beaver, walrus
+
+
+
 import numpy as np 
 import math
 
